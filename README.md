@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [R Nithin Kumar Reddy] 👋
 
 ### DevOps & Cloud Engineer | AWS, Kubernetes, Terraform | Java Backend (Spring Boot)
 
@@ -55,15 +55,16 @@ I understand the applications running through them.
 - Ansible automation
 
 ### 📌 Featured Projects
-> _(Pin your top repos here once ready — Terraform + AWS, Jenkins CI/CD pipeline, Spring Boot REST API, Docker/K8s deployment)_
+https://github.com/nithin11251/docker-mastery-lab.git
+https://github.com/nithin11251/jenkins-mastery-lab.git
 
 
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinreddy1125/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nithinkumarreddy1125@gmail.com)
 
 ---
 
